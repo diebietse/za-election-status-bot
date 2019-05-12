@@ -2,6 +2,8 @@
 
 Periodic election status updates sent to a Slack channel, powered by News24 and Firebase.
 
+![Example Slack Output](images/example-output.png)
+
 ## Data Source
 
 This project uses news24 to get the latests election results in JSON format.
